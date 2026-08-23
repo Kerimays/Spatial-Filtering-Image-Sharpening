@@ -6,7 +6,7 @@ Uzamsal Filtreleme Yöntemleri ile Görüntü Keskinleştirme
 ## Proje Kodlarına Erişim
 Proje kapsamında geliştirilen tüm kaynak kodlara aşağıdaki GitHub bağlantısı üzerinden erişilebilir:
 
-https://github.com/kerimays/spatial-filtering-image-sharpening
+https://github.com/kerimays/uzamsal-filtreleme-goruntu-keskinlestirme
 
 ## Gereksinimler
 - Python 3.9 veya üzeri  
