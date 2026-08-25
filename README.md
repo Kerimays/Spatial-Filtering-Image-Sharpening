@@ -1,12 +1,13 @@
-# Uzamsal Filtreleme ile Görüntü Keskinleştirme
+# Spatial Filtering and Image Processing
 
-Bu proje, dijital görüntü işleme teknikleri ve uzamsal (spatial) filtreleme matrisleri kullanılarak görsellerdeki gürültüleri azaltma, kenar tespiti yapma ve detayları belirginleştirerek keskinleştirme amacıyla geliştirilmiş bir Python uygulamasıdır.
+Digital image processing project applying spatial filtering algorithms for noise reduction and edge detection.
 
-## 🚀 Proje Özellikleri & Kapsamı
-* **Konvolüsyon İşlemleri:** Dijital görüntüler üzerinde piksel tabanlı filtre (kernel) matrislerinin uygulanması.
-* **Görüntü İyileştirme:** Yüksek geçiren (High-pass) ve alçak geçiren (Low-pass) filtreler ile kenar tespiti ve detay keskinleştirme.
-* **Matris ve Görselleştirme:** Matris operasyonları ile piksel seviyesinde analiz ve sonuçların görsel olarak karşılaştırılması.
+## 🚀 Overview
 
-## 🛠 Kullanılan Teknolojiler
-* **Dil:** Python
-* **Kütüphaneler:** OpenCV, NumPy, Matplotlib
+- Implemented spatial filtering techniques to reduce noise in digital images.
+- Applied edge-detection algorithms to enhance and sharpen image details.
+
+## 🛠️ Technologies Used
+
+- **Language:** Python
+- **Library:** OpenCV
